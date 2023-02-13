@@ -3,3 +3,4 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have on
 title: "Persian Version of Developing a Google SRE Culture"
 description: "توسعه فرهنگ Google SRE"
+show_downloads: true
